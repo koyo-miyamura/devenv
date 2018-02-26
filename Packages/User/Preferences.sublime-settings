@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended Bright.tmTheme",
+	"default_line_ending": "unix",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}

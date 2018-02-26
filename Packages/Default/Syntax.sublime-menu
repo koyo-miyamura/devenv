@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "シンタックス",
+        "children": [ { "command": "$file_types" } ]
+    }
+]

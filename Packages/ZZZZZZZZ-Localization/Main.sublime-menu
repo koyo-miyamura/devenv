@@ -1,0 +1,52 @@
+[
+    {
+        "id": "file", 
+        "mnemonic": "F", 
+        "caption": "ファイル(F)"
+    }, 
+    {
+        "id": "edit", 
+        "mnemonic": "E", 
+        "caption": "編集(E)"
+    }, 
+    {
+        "id": "selection", 
+        "mnemonic": "S", 
+        "caption": "選択(S)"
+    }, 
+    {
+        "id": "find", 
+        "mnemonic": "I", 
+        "caption": "検索(I)"
+    }, 
+    {
+        "id": "view", 
+        "mnemonic": "V", 
+        "caption": "表示(V)"
+    }, 
+    {
+        "id": "goto", 
+        "mnemonic": "G", 
+        "caption": "移動(G)"
+    }, 
+    {
+        "id": "tools", 
+        "mnemonic": "T", 
+        "caption": "ツール(T)"
+    }, 
+    {
+        "id": "project", 
+        "mnemonic": "P", 
+        "caption": "プロジェクト(P)"
+    }, 
+    {
+        "id": "preferences", 
+        "mnemonic": "N", 
+        "caption": "基本設定(N)"
+    }, 
+    {
+        "id": "help", 
+        "mnemonic": "H", 
+        "caption": "ヘルプ(H)"
+    }
+]
